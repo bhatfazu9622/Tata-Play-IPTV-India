@@ -99,7 +99,7 @@ API Doc can be found [here](static/apidoc.md)
 <h3>📝 Original Credits : </h3>
 
 <h5> © 2022 [ Who Created ] - For This Tata Play IPTV India Repo </h5>
-* GitHub for their GitHub Actions
+<h5> GitHub for their GitHub Actions <h5>
 <h5> [ Me ] - For Modifying Something 😅 </h5>
 
 ---
