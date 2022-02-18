@@ -1,7 +1,7 @@
 <p align="center"><img src="https://www.tataplay.com/s3-api/v1/assets/others/intro-image-desktop.png" ></p>
 
 
-# Tata Play IPTV Script generator
+# Tata Play IPTV Script Generator
 
 A script to generate the m3u playlist containing direct streamable file (.mpd or MPEG-DASH or DASH) based on the channels that the user has subscribed on the Tata Play IPTV portal. You just have to login using your password or otp that's it
 
